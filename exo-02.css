@@ -1,19 +1,35 @@
 /* exo-02.css */
+@font-face {
+    font-family: 'nasalization-rg'; 
+    src: url('nasalization-rg.ttf'); 
+}
 body {
     color: darkslategrey;
+    background: aliceblue ;
 }
 
-body h1 {
-    color: #8B0000
-}
-
-body h2 { color: rgb(178, 34, 34)  }
-
-body 
-{ background: aliceblue ;
-}
-
-body h1 
-{ background: black;
+ h1 {
+    color: #8B0000 ; 
+    font-family: 'nasalization-rg';
+    background: black;
     opacity: 20% ;
-}
+    font-size: 45px;
+    text-decoration: underline overline black;
+    text-align: center;
+  
+    }
+
+ h2 { color: rgb(178, 34, 34) ;
+    font-family: 'nasalization-rg';
+    font-size: 25px; 
+    text-decoration : underline ;
+    text-align: center
+     }
+
+
+
+
+
+
+
+
