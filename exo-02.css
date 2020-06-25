@@ -1,0 +1,19 @@
+/* exo-02.css */
+body {
+    color: darkslategrey;
+}
+
+body h1 {
+    color: #8B0000
+}
+
+body h2 { color: rgb(178, 34, 34)  }
+
+body 
+{ background: aliceblue ;
+}
+
+body h1 
+{ background: black;
+    opacity: 20% ;
+}
